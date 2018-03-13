@@ -1,0 +1,18 @@
+Demo1 
+https://demo1.qiejf.com/better/p/pages/login.html
+
+Demo
+https://demo.qiejf.com/better/p/pages/login.html
+
+Vip1
+https://vip1.qiejf.com/better/p/pages/login.html
+
+禅道   leiyq  88888888
+http://192.168.2.42/zentao/bug-browse-5.html
+
+Jenkins    leiyq  888888
+http://192.168.2.42:11080
+
+知识库地址
+http://192.168.2.42:88/doku.php?id=start
+
